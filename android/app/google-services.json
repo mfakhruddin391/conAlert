@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200961637904",
+    "firebase_url": "https://izitscam-62787.firebaseio.com",
+    "project_id": "izitscam-62787",
+    "storage_bucket": "izitscam-62787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200961637904:android:928794e7d5a8b36f8b5495",
+        "android_client_info": {
+          "package_name": "gregartechindustries.izitscam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200961637904-n0smqgio399im7755frksar9irnu0pp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3tO4O9-xHQEHLsW503R0cakRRr7saOaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200961637904-n0smqgio399im7755frksar9irnu0pp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
